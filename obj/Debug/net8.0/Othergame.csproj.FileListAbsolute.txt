@@ -1,0 +1,14 @@
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\bin\Debug\net8.0\Othergame.exe
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\bin\Debug\net8.0\Othergame.deps.json
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\bin\Debug\net8.0\Othergame.runtimeconfig.json
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\bin\Debug\net8.0\Othergame.dll
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\bin\Debug\net8.0\Othergame.pdb
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.AssemblyInfoInputs.cache
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.AssemblyInfo.cs
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.csproj.CoreCompileInputs.cache
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.dll
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\refint\Othergame.dll
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.pdb
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.genruntimeconfig.cache
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\ref\Othergame.dll
