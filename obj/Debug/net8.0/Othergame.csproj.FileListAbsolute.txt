@@ -12,3 +12,4 @@ C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8
 C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.pdb
 C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.genruntimeconfig.cache
 C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\ref\Othergame.dll
+C:\Users\leon.bergestra\Desktop\Programmering\Othergame\Othergame\obj\Debug\net8.0\Othergame.sourcelink.json
